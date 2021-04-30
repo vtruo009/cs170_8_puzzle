@@ -15,4 +15,4 @@ by running the command provided at the top.
 ## Files
 * ```main_menu.py``` - contains the menu/UI
 * ```problem.py``` - the main driver of the program that includes the Problem and Node classes, as well as all three search algorithms
-* ```trace_of_sample_matrix.txt```- the solution trace for running the A* with Euclidean Distance Heuristic algorithm on the sample matrix provided on the project specs
+* ```Part2_trace.txt```- the solution trace for running the A* with Euclidean Distance Heuristic algorithm on the sample matrix provided on the project specs
